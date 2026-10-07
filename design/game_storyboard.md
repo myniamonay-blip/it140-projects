@@ -7,25 +7,24 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+Zombie Unicorn Apocalypse is a fantasy survival adventure where a mysterious infection has turned the magical unicorns of Rainbow Valley into zombies.
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+A mysterious infection has spread through Rainbow Valley and turned its magical unicorns into zombies. The player begins in Rainbow Cottage and must explore the valley to collect six items needed to create a cure: a Silver Horseshoe, Healing Mushroom, Magic Crystal, Rainbow Water, Moonflower, and Cure Potion. The player must collect all six items while avoiding the Zombie Unicorn Queen in the Dark Unicorn Castle. If the player collects every item before encountering the Zombie Unicorn Queen, the valley can be saved.
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. Rainbow Cottage - Start room
+2. Enchanted Forest
+3. Mushroom Meadow
+4. Crystal Cave
+5. Rainbow Falls
+6. Fairy Garden
+7.  Abandoned Potion Lab
+8. Dark Unicorn Castle - Villain room
 
 Add more rooms if your design needs them.
 
@@ -34,19 +33,19 @@ Add more rooms if your design needs them.
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. Silver Horseshoe
+2. Healing Mushroom
+3. Magic Crystal
+4. Rainbow Water
+5. Moonflower
+6. Cure Potion
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+The Zombie Unicorn Queen is the villain of the game. She was once the ruler of Rainbow Valley but was transformed by the mysterious infection. She waits inside the Dark Unicorn Castle. If the player encounters her before collecting all six items needed for the cure, the player loses the game.
 
 ## Storyboard and Map Check
 
